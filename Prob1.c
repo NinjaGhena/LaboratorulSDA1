@@ -1,4 +1,3 @@
-#include <stdio.h>
 
 typedef struct Student {
     char Name[20];
